@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "in": {
+      "name": "lineage-14.1-20180206-UNOFFICIAL-santoni.zip",
+      "size_store": 1163458860,
+      "size_store_signed": 1163460598,
+      "size_official": 534549133,
+      "md5_store": "1439f08cb77f2d4e9881c66d2c58afe1",
+      "md5_store_signed": "d171ead0a79aa4c0aafec4aa2001e4aa",
+      "md5_official": "9bcd6322fdeea55595ec608dfeaa79f7"
+  },
+  "update": {
+      "name": "lineage-14.1-20180206-UNOFFICIAL-santoni.update",
+      "size": 5376882,
+      "size_applied": 1163462971,
+      "md5": "26970096dac5a7eb546512f05cfa1052",
+      "md5_applied": "cc2bc60eb978e4038947ae6dbab1ebfd"
+  },
+  "signature": {
+      "name": "lineage-14.1-20180206-UNOFFICIAL-santoni.sign",
+      "size": 5212,
+      "size_applied": 1163464709,
+      "md5": "b4ca4327ab44632af9c90f9cf860e473",
+      "md5_applied": "fa16d592deeaa1506904725b0959042b"
+  },
+  "out": {
+      "name": "lineage-14.1-20180207-UNOFFICIAL-santoni.zip",
+      "size_store": 1163462971,
+      "size_store_signed": 1163464709,
+      "size_official": 534547695,
+      "md5_store": "cc2bc60eb978e4038947ae6dbab1ebfd",
+      "md5_store_signed": "fa16d592deeaa1506904725b0959042b",
+      "md5_official": "070e678f58b14e2475d8503b406108bd"
+  }
+}
